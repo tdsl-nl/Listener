@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Listener.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NumberOfQueues" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="MSMQStore" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">esmee9600</Value>
+    </Setting>
+    <Setting Name="MSMQStore2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">esmee9600</Value>
+    </Setting>
+    <Setting Name="DBConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=testpc;Database=esmeemain;UID=ESMEEUser;PWD=Access4ESMEE;</Value>
+    </Setting>
+    <Setting Name="ServerCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="GetVer" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Codec12Translate" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FMB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FMB110,FMB140,FMB-CAN</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

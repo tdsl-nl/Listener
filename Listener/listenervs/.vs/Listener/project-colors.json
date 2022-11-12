@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe85e3b7-9b4b-4ba4-aa6f-96872759caa1": {
+      "ProjectGuid": "fe85e3b7-9b4b-4ba4-aa6f-96872759caa1",
+      "DisplayName": "EsmeeBO",
+      "ColorIndex": 0
+    },
+    "ee0e2c0d-1bc0-4587-9961-3272db1f2185": {
+      "ProjectGuid": "ee0e2c0d-1bc0-4587-9961-3272db1f2185",
+      "DisplayName": "Listener",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
